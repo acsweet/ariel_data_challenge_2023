@@ -1,5 +1,5 @@
 # Ariel Data Challenge 2023
-This is the repository for the 3rd place solution in the 2023 Ariel Data Challenge.
+This is the repository for the 3rd place solution in the 2023 <a href="https://www.ariel-datachallenge.space/">Ariel Data Challenge</a>.
 
 ## Setup
 - download the data from the <a href="https://www.ariel-datachallenge.space/ML/documentation/description">ADC 2023 challenge website</a>, and place it in the <code>data</code> directory
